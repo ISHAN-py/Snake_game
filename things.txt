@@ -1,0 +1,11 @@
+collide with snake (body and walls) -d
+display food -d
+diaply snake -d
+input arrow keys -d
+inputdir changes -d
+moving the snake -d
+random food -d
+update and diswplay score -d
+highscore storing in local storage -d
+backend 
+github
